@@ -1,6 +1,6 @@
 import time
 import sys
-from playsound import playsound
+from playsound3 import playsound
 
 def rock():
     # TOCA A MÚSICA ESCOLHIDA

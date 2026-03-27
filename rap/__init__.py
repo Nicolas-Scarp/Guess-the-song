@@ -1,6 +1,6 @@
 import time
 import sys
-from playsound import playsound
+from playsound3 import playsound
 
 #NÃO FINALIZADO, CÓPIA DO ROCK (POR ENQUANTO)
 def rap():
